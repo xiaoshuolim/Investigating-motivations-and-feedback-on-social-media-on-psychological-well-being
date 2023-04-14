@@ -6,7 +6,9 @@ Keywords: social media; personal motivations; social media feedback; psychologic
 
 This project contains the following:
 
-script - R scripts for conducting the analysis and generating all figures in the manuscript
+data - csv file for edgelist and excel file for raw responses from participants
+
+script - R Markdown Script for conducting the analysis and generating all figures in the manuscript
 
 output - analytic results in HTML form are here
 
